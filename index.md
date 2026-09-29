@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Test to my blog!
 ---
+Some text
